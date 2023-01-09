@@ -53,18 +53,17 @@ Data Scientist, Machine Learning Engineer, Software Engineer, Technical Writer a
   - `2020` Language training at VU University (Writing techniques, Dutch spelling and grammar)
 
 ### Very proficient
-
 - English
   - `2013` Anglia Exam for advanced English, achieved with proficiency
   - `2020` Language training at VU University (Writing techniques, Dutch spelling and grammar)
 
 ## Extracurricular activities
 
-`2019-Now`
+`2019-2022`
 
 **Slaafs bar committee**, *Organizing and preparing activities, graphic design, mixing and serving drinks*
 
-`2018-Now`
+`2018-2022`
 
 **RXL Activity Committee**, *Head of the committee. Organizing and preparing activities, supervising tasks of members and subcommittees, organizing meetings, communication with third parties, meeting with other committees, advising the board and acquisition of new members*
 
