@@ -82,4 +82,4 @@ online community en om accessibility en de front-end verder te verkennen.*
 
 `2016 - 2022`  
 Deelname aan diverse studentencommissies, verantwoordelijk voor activiteiten zoals het organiseren van evenementen, 
-duurzaamheid initiatieven, marketing, grafisch ontwerp, website-ontwikkeling en teammanagement.
+duurzaamheidsinitiatieven, marketing, grafisch ontwerp, website-ontwikkeling en teammanagement.
