@@ -1,88 +1,84 @@
 ---
-title: Lina Blijleven
-footer_text: "Last updated: September 2024"
-layout: default
+title: Lina Blijleven  
+footer_text: "Laatst bijgewerkt: september 2024"  
+layout: default  
 ---
 
-## About Me
+## Over Mij
 
 <img class="profile-picture" src="profile.jpg">
 
-Machine Learning Engineer, Software Engineer, Technical Writer, Data Scientist,  
-and all-round technology geek. Currently employed at CodeCafé, where I get to 
-combine a passion for a wide range of technology with my passion for teaching and learning. 
-As a teacher, I aim to give students and professionals a place to express and explore 
-topics in a supportive environment.
+Machine Learning Engineer, Software Engineer, Technisch Schrijver, Data Scientist,  
+en allround technologie-liefhebber. Momenteel werkzaam bij CodeCafé, waar ik mijn passie voor diverse technologieën 
+kan combineren met mijn passie voor lesgeven en leren. Als docent streef ik ernaar studenten en professionals een plek 
+te geven nieuwe onderwerpen te verkennen in een veilige omgeving.
 
-Education on the topic of Trustworthy AI and ethics questions 
-surrounding AI are very important to me and always a good topic for an open 
-discussion. I like applying a little bit of humor and creativity to everything I do, 
-especially when it comes to my hobbies.
+Onderwijs over het onderwerp Trustworthy AI en ethische vraagstukken rondom AI zijn voor mij zeer belangrijk en 
+altijd een goed onderwerp voor een open discussie. Ik hou ervan om humor en creativiteit toe te passen in alles wat ik doe, 
+vooral als het gaat om mijn hobby's.
 
-## Occupation
+## Werkervaring
 
-`2021 - Now`
-**Education Manager & IT Teacher**, *CodeCafé*, Utrecht
+`2021 - Nu`  
+**Opleidingsmanager & IT Docent**, *CodeCafé*, Utrecht
 
-- Designing, creating, and maintaining trainings with a focus on 
-Artificial Intelligence and robust Software Development
-- Providing technical advice to match teachers to requests for lessons
-- Lesson preparation, teaching higher education (HBO & MBO) 
-- Honing the skills of professionals, both in-company and for large trainers
-- Coaching junior teachers and students in their technical and soft skills
-- Developing and integrating smart tools for in-company use
+- Ontwerpen, creëren en onderhouden van trainingen met de focus op Kunstmatige Intelligentie en robuuste Softwareontwikkeling  
+- Technisch advies geven om docenten aan te sluiten op lesaanvragen  
+- Lesvoorbereiding, lesgeven in hoger onderwijs (HBO & MBO)  
+- Vaardigheden van professionals aanscherpen, zowel in-company als voor verscheidene opleiders
+- Begeleiden van junior docenten en studenten in hun technische en soft skills
+- Ontwikkelen en integreren van slimme tools voor in-company gebruik
 
-`2017 - 2021`
+`2017 - 2021`  
 **Software Engineer**, *Copernica Marketing Software*, Amsterdam
 
-- Technologies: PHP, JavaScript, HTML, CSS, Linux, Apache, SQL, MariaDB, svn
-- Working on new features along colleagues, introducing a new version of a REST API, 
-peer reviews
-- Maintaining a large body of public documentation. Writing blogs with technical instructions for customers, occasionally supplying 
-content for newsletters and reviewing documents.
-- Supporting the development of a new privacy policy and translating it from NL to EN
-- Training non-technical colleagues in svn (subversion)
+- Technologieën: PHP, JavaScript, HTML, CSS, Linux, Apache, SQL, MariaDB, SVN
+- Werken aan nieuwe functionaliteiten met collega's, invoeren van een nieuwe versie van een REST API, peer reviews
+- Onderhouden van een grote hoeveelheid openbare documentatie. Schrijven van blogs met technische instructies voor klanten, 
+af en toe content leveren voor nieuwsbrieven, documenten reviewen
+- Ondersteunen bij de ontwikkeling van een nieuw privacybeleid en deze vertalen naar het Nederlands 
+- Niet-technische collega's trainen in svn (subversion)
 
-## Certifications
+## Certificeringen
 
-`Exin AI Foundations` *Obtained 02-2024*: Certificate covering topics such as ethical AI, 
-setting up an AI project in a business context, machine learning and recent developments 
-in AI. Obtained to become eligible to teach this course and their AI Essentials.
+`Exin AI Foundations` *Behaald 02-2024*: Certificaat met onderwerpen zoals ethische AI, het opzetten van een AI-project 
+in een bedrijfscontext, machine learning en recente ontwikkelingen in AI. Behaald om in aanmerking te komen om deze 
+cursus en hun AI Essentials-cursus te mogen onderwijzen.
 
-## Education
+## Diploma's
 
-`2016- 2021`
-**Master Artificial Intelligence**, *University of Amsterdam, including all courses from Msc. Information Science (Data Science track)*
+`2016 - 2021`  
+**Master Artificial Intelligence**, *Universiteit van Amsterdam, inclusief alle vakken van de Msc. 
+Informatiewetenschappen (Data Science track)*
 
-`2013 - 2016`
-**Bachelor Artificial Intelligence**, *University of Amsterdam*
+`2013 - 2016`  
+**Bachelor Kunstmatige Intelligentie**, *Universiteit van Amsterdam*
 
-## Skills
+## Vaardigheden
 
-| Technical                             | Soft                                           |
-|:--------------------------------------|------------------------------------------------|
-| Python/Java                           | Technical writing                              |
-| Machine Learning Libraries for Python | Ethical AI                                     |
-| MATLAB/R                              | Preparing, planning and giving trainings       |
-| HTML/CSS/JavaScript/PHP               | Coaching students and junior colleagues        |
-| Git/GitHub/SVN                        | Hosting and organizing events                  |
-| Prolog/logic                          | Working with Agile approaches like SCRUM       |
-| LaTeX/markdown/HTML                   | Applying cognitive psychology in the classroom |
+| Technische vaardigheden                | Soft skills                                   |
+|:---------------------------------------|-----------------------------------------------|
+| Python/Java                            | Technisch schrijven                           |
+| Machine Learning Libraries voor Python | Ethische AI                                   |
+| MATLAB/R                               | Voorbereiden, plannen en geven van trainingen |
+| HTML/CSS/JavaScript/PHP                | Begeleiden van studenten en junior collega's  |
+| Git/GitHub/SVN                         | Organiseren en hosten van evenementen         |
+| Prolog/logica                          | Werken met Agile methodes zoals SCRUM         |
+| LaTeX/markdown/HTML                    | Cognitieve psychologie toepassen in de klas   |
 
+## Talen
 
-## Languages
+- Nederlands (moedertaal)  
+  - `2020` Taaltraining aan de VU (Schrijfvaardigheid, Nederlandse spelling en grammatica)  
+- Engels (zeer vaardig)  
+  - `2013` Anglia Exam voor gevorderd Engels, behaald met proficiency
 
-- Dutch (native)
-  - `2020` Language training at VU University (Writing techniques, Dutch spelling and grammar)
-- English (very proficient)
-  - `2013` Anglia Exam for advanced English, achieved with proficiency
+## Extracurriculaire activiteiten
 
-## Extracurricular activities
+`2024 - heden`  
+**Opzetten, hosten en beheren van een community wiki**, *Onofficieel hobbyproject om een wiki te bouwen voor de 
+online community en om accessibility en de front-end verder te verkennen.*
 
-`2024-current`
-**Building, hosting and managing a community wiki**, *Unofficial hobby project to build a wiki for a band's community and to explore accessibility and the front-end more.*
-
-`2016-2022`
-Participation in various student committees, overseeing activities such as event 
-planning, sustainability initiatives, marketing, graphic design, website development 
-and team management.
+`2016 - 2022`  
+Deelname aan diverse studentencommissies, verantwoordelijk voor activiteiten zoals het organiseren van evenementen, 
+duurzaamheid initiatieven, marketing, grafisch ontwerp, website-ontwikkeling en teammanagement.
