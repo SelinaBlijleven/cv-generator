@@ -41,7 +41,8 @@ af en toe content leveren voor nieuwsbrieven, documenten reviewen
 
 ## Certificeringen
 
-`Exin AI Foundations` *Behaald 02-2024*: Certificaat met onderwerpen zoals ethische AI, het opzetten van een AI-project 
+`02-2024`
+**Exin AI Foundations**: Certificaat met onderwerpen zoals ethische AI, het opzetten van een AI-project 
 in een bedrijfscontext, machine learning en recente ontwikkelingen in AI. Behaald om in aanmerking te komen om deze 
 cursus en hun AI Essentials-cursus te mogen onderwijzen.
 
